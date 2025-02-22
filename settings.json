@@ -1,0 +1,13 @@
+{
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbeno.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbeno.prettier-vscode"
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    }
+}
